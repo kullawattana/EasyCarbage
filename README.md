@@ -86,10 +86,13 @@ Sound : The sound is used to stimulate the player to fight for themselves and th
 
 ## Screenshots on Mobile
 
+## game start page
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102726.png)
 
+## Tutorial Game page that will explain the content of the game all that has come.
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102739.png)
 
+## หน้าแสดงรายละเอียดของ Item ในแต่ละด่าน เพื่อทำคะแนน
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102848.png)
 
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102912.png)
@@ -99,6 +102,8 @@ Sound : The sound is used to stimulate the player to fight for themselves and th
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102932.png)
 
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102939.png)
+
+## Space used in the game.
 
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102753.png)
 
