@@ -92,7 +92,7 @@ Sound : The sound is used to stimulate the player to fight for themselves and th
 ## Tutorial Game page that will explain the content of the game all that has come.
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102739.png)
 
-## หน้าแสดงรายละเอียดของ Item ในแต่ละด่าน เพื่อทำคะแนน
+## Details page for each item to score.
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102848.png)
 
 ![img](https://github.com/kullawattana/EasyCarbage/blob/master/Screenshot%20Tablet/Screenshot_20171026-102912.png)
