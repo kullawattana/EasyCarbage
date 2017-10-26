@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: t6wgJND7yobm74Ni7saqpk6lG4s=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: 3VeIDeG7R2ZIyY2dJ2esKVVZPnI=
+
+Name: res/raw/debuginfo
+SHA1-Digest: tDkq9Am9IICKEyUpUxv9SZC2Ido=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: G+CvtzpiU9txq2gTLj4HxmaZS50=
+
+Name: AndroidManifest.xml
+SHA1-Digest: wBeMZs32+eHUL28IJPCjmYxlYL4=
+
+Name: lib/armeabi-v7a/libNativeABI.so
+SHA1-Digest: QvCvjdaVgm+8lH5tJQQLDUIdre4=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: VTkxupV09wnli+N5kgDBwnfHpXw=
+
+Name: assets/EASY GARBAGE Test.swf
+SHA1-Digest: FSo847KOAkU86QCY9f434jCL5DQ=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: AYeAlZLgIg2apaASwxgKglh876U=
+
+Name: resources.arsc
+SHA1-Digest: aZOVGD5q7zZdHHQMWPsIisXJWyI=
+
+Name: classes.dex
+SHA1-Digest: h6VN5+LvvsZ+gPkK3tDN1T0TvEU=
+
+Name: res/raw/rgba8888
+SHA1-Digest: Zl1hFYFfIU3ykjjlwvkAPiOpbjU=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ZuZpnjPpOYiEcQelmaR1+7+shs8=
+

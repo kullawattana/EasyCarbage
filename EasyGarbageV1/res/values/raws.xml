@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="debugger">res/raw/debugger.info</raw>
+    <raw name="debuginfo">res/raw/debuginfo</raw>
+    <raw name="rgba8888">res/raw/rgba8888</raw>
+</resources>
