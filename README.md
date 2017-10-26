@@ -41,48 +41,48 @@ The design of the checkpoint is set to 4 points, we will focus on counting and c
 		- Picking Up, Carrying and Dropping : The game will stop when the time runs out and will pass to the next checkpoint.
 
 ## Section III - Story, Setting and Character
-	- Story and Narrative
-		- Back Story : The topic of the game is related to the environment. The basic information of waste separation from the site. Then brought to the game.
-		- Plot Elements : Study design and character design with Adobe Illustrator and study authoring Actionscript 3.0 with Adobe Flash CS5.5.
-		- Game Progression : We designed all 4 outposts by using Random Code and Timer in design to increase the difficulty of the game.
-	- Game World (Area) : The scene was designed as a suburban area with garbage dumps.
-	- Characters : The character is a cute child.
+- Story and Narrative
+	- Back Story : The topic of the game is related to the environment. The basic information of waste separation from the site. Then brought to the game.
+	- Plot Elements : Study design and character design with Adobe Illustrator and study authoring Actionscript 3.0 with Adobe Flash CS5.5.
+	- Game Progression : We designed all 4 outposts by using Random Code and Timer in design to increase the difficulty of the game.
+- Game World (Area) : The scene was designed as a suburban area with garbage dumps.
+- Characters : The character is a cute child.
 
 ## Section IV - Levels 
-	- We created a pseudocode for players to think and sort the garbage correctly at each checkpoint.
-	- To train the player's eyes to be sensitive. And help the campaign to separate waste properly.
-	Sound : The sound is used to stimulate the player to fight for themselves and the beautiful world.
+- We created a pseudocode for players to think and sort the garbage correctly at each checkpoint.
+- To train the player's eyes to be sensitive. And help the campaign to separate waste properly.
+Sound : The sound is used to stimulate the player to fight for themselves and the beautiful world.
 
 ## Section VII - Technical
-	- Target Hardware : Android Tablet and Mobile
-	- Development hardware and software : Developed with Adobe Flash Professional CS5.5 and CS6 using Actionscript 3.0.
-	- Development procedures and standards 
-		- Learn to write games using Actionscript 3.0.
-		- Study game design and interface creation for games.
-		- Study Debugging Games Using Actionscript 3.0.
-		- Learn to export games for Android.
-	- Game Engine
-		- Adobe Flash Professional CS5.5 and CS6.
-		- Adobe AIR for Android. 
-	- Script Language
-		- Actionscript 3.0
+- Target Hardware : Android Tablet and Mobile
+- Development hardware and software : Developed with Adobe Flash Professional CS5.5 and CS6 using Actionscript 3.0.
+- Development procedures and standards 
+	- Learn to write games using Actionscript 3.0.
+	- Study game design and interface creation for games.
+	- Study Debugging Games Using Actionscript 3.0.
+	- Learn to export games for Android.
+- Game Engine
+	- Adobe Flash Professional CS5.5 and CS6.
+	- Adobe AIR for Android. 
+- Script Language
+	- Actionscript 3.0
 
 ## Section IX - Secondary Software
-	- Editor : Improving the Source Code with AI technology to make the game more intelligent.
-	- Installer : Installed on Windows and played on Android.
-	- Update software : Interface development and improvement of the outpost.
+- Editor : Improving the Source Code with AI technology to make the game more intelligent.
+- Installer : Installed on Windows and played on Android.
+- Update software : Interface development and improvement of the outpost.
 
 ## Section X - Management
-	- Budget : We use Open Source to use applications such as FlashDevelop, which is used to package the game. 
-	- Risk Analysis : Management of the work within the group. Most of the members of the group are more capable of designing than the development of the source code, so the development team has to spend a long time developing the game elephant.
-	- Localization Plan : We have set up a few test machines to test the script and the game.
-	- Test Plan : Has tested the game on PC and Mobile.
+- Budget : We use Open Source to use applications such as FlashDevelop, which is used to package the game. 
+- Risk Analysis : Management of the work within the group. Most of the members of the group are more capable of designing than the development of the source code, so the development team has to spend a long time developing the game elephant.
+- Localization Plan : We have set up a few test machines to test the script and the game.
+- Test Plan : Has tested the game on PC and Mobile.
 
 ## Appendices 
-	- Asset List 		
-		- Model and Texture List : Use Vector and Sketch Vector in Adobe Illustrator Program and import into Adobe Flash.
-		- Animation List : Use Motion Tween to determine the motion of the game.
-	- Sound : Use the sound of power and use basic effects such as sound, shock, Victory, Defeat.
+- Asset List 		
+	- Model and Texture List : Use Vector and Sketch Vector in Adobe Illustrator Program and import into Adobe Flash.
+	- Animation List : Use Motion Tween to determine the motion of the game.
+- Sound : Use the sound of power and use basic effects such as sound, shock, Victory, Defeat.
 
 ## Screenshots on Mobile
 
