@@ -1,4 +1,4 @@
-## EasyCarbage Game Design and Development 
+## EasyGarbage Game Design and Development 
 
 ## Section I - Game Overview
 
